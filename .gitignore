@@ -1,0 +1,33 @@
+
+# Distribution / packaging
+.Python
+build/
+dist/
+downloads/
+
+# Virtual Environments
+venv/
+.venv/
+env/
+.env
+
+# IDEs and Editors
+.vscode/
+.idea/
+
+# Data files (large datasets)
+*.csv
+*.xlsx
+*.xls
+
+# Saved model files
+*.pkl
+*.joblib
+
+# Image outputs (generated plots)
+*.png
+*.jpg
+!Prostate methodology.jpeg
+
+# PDF files
+*.pdf

@@ -1,0 +1,21 @@
+# Core Data Science and Machine Learning libraries
+numpy
+pandas
+scipy
+
+# Data Visualization
+matplotlib
+seaborn
+
+# Machine Learning & Imbalanced Data Handling
+scikit-learn
+imbalanced-learn
+xgboost
+lightgbm
+
+# Deep Learning
+torch
+pytorch-tabnet
+
+# Model Interpretability
+shap
