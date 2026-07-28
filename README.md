@@ -118,8 +118,6 @@ The study uses a prostate cancer dataset containing **30 features** (including P
 2. **Data Balancing** — SMOTE applied to training data to address class imbalance
 3. **Model Training** — Individual ML/DL models trained and evaluated using stratified K-fold cross-validation
 4. **Ensemble Learning** — Stacking and Voting classifiers to combine base learner predictions
-5. **Model Interpretation** — SHAP analysis for feature importance and model transparency
-
 ---
 
 ## 📝 Citation
@@ -152,4 +150,3 @@ For questions or collaboration, please reach out to the corresponding authors:
 
 - **Muhammad Mohsin** — mohsinramzan999@gmail.com
 - **Ayesha Anwar** — hayesha1744@gmail.com
-- **Imran Ashraf** — imranashraf92@gmail.com
