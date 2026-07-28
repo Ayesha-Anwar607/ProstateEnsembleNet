@@ -61,10 +61,7 @@ Using a prostate cancer dataset containing **29 clinical attributes**, the propo
 
 ### Imbalanced Data Handling
 - SMOTE (Synthetic Minority Oversampling Technique)
-
-### Explainability
-- SHAP (SHapley Additive exPlanations)
-
+- 
 ---
 
 ## 📂 Repository Structure
