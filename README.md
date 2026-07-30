@@ -120,24 +120,6 @@ The study uses a prostate cancer dataset containing **30 features** (including P
 4. **Ensemble Learning** — Stacking and Voting classifiers to combine base learner predictions
 ---
 
-##  Citation
-
-If you use this work, please cite:
-
-```bibtex
-@article{Mohsin2026ProstaEnsembleNet,
-  title     = {A Novel Framework Integrating Epidemiological Features and Machine Learning Models for Prostate Cancer Detection on Imbalanced Dataset},
-  author    = {Mohsin, Muhammad and Anwar, Ayesha and Hashmi, Muhammad Shadab Alam and Obregon, Silvia Aparicio and Iglesias, Ruben Calderon and Samee, Nagwan Abdel and Ashraf, Imran},
-  journal   = {International Journal of Computational Intelligence Systems},
-  year      = {2026},
-  publisher = {Springer Netherlands},
-  doi       = {10.1007/s44196-026-01489-4},
-  url       = {https://doi.org/10.1007/s44196-026-01489-4}
-}
-```
-
----
-
 ##  License
 
 © 2026 The Author(s). Published by Springer Netherlands.
