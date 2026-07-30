@@ -1,4 +1,4 @@
-# ProstaEnsembleNet
+# ProstateEnsembleNet
 
 ### A Novel Framework Integrating Epidemiological Features and Machine Learning Models for Prostate Cancer Detection on Imbalanced Dataset
 
