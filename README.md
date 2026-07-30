@@ -4,7 +4,7 @@
 
 ---
 
-## 📄 Published Paper
+##  Published Paper
 
 > **Muhammad Mohsin, Ayesha Anwar, Muhammad Shadab Alam Hashmi, Silvia Aparicio Obregon, Ruben Calderon Iglesias, Nagwan Abdel Samee, Imran Ashraf**
 >
@@ -12,13 +12,13 @@
 >
 > **International Journal of Computational Intelligence Systems**, Springer Netherlands, 2026.
 >
-> 🔗 **DOI:** [10.1007/s44196-026-01489-4](https://doi.org/10.1007/s44196-026-01489-4)
+>  **DOI:** [10.1007/s44196-026-01489-4](https://doi.org/10.1007/s44196-026-01489-4)
 >
-> 📥 **PDF:** [Download Paper](https://link.springer.com/content/pdf/10.1007/s44196-026-01489-4.pdf)
+>  **PDF:** [Download Paper](https://link.springer.com/content/pdf/10.1007/s44196-026-01489-4.pdf)
 
 ---
 
-## 📌 Overview
+##  Overview
 
 Prostate cancer represents a major health issue worldwide, where traditional biopsy-based diagnostics are often limited by patient discomfort, bias, subjectivity, and sampling inaccuracies. This study introduces the **ProstaEnsembleNet** framework, which incorporates machine learning models in an ensemble approach to detect prostate cancer early by utilizing diverse epidemiological features, minimizing geographic and racial disparities.
 
@@ -28,7 +28,7 @@ The designed ensemble learning integrates multiple machine learning and deep lea
 
 ---
 
-## 🏆 Key Results
+##  Key Results
 
 Using a prostate cancer dataset containing **29 clinical attributes**, the proposed ensemble approach achieved superior performance:
 
@@ -40,7 +40,7 @@ Using a prostate cancer dataset containing **29 clinical attributes**, the propo
 
 ---
 
-## 🧠 Models Used
+##  Models Used
 
 ### Base Learners (Machine Learning)
 - Gradient Boosting (GB)
@@ -64,7 +64,7 @@ Using a prostate cancer dataset containing **29 clinical attributes**, the propo
 - 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```
 ProstaEnsembleNet/
@@ -76,7 +76,7 @@ ProstaEnsembleNet/
 
 ---
 
-## 🔧 Installation & Setup
+##  Installation & Setup
 
 ### Prerequisites
 - Python 3.8+
@@ -98,7 +98,7 @@ jupyter notebook ProstaEnsembleNet.ipynb
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 The study uses a prostate cancer dataset containing **30 features** (including Patient ID) and **29 clinical attributes**, covering epidemiological and screening-related features such as:
 
@@ -112,7 +112,7 @@ The study uses a prostate cancer dataset containing **30 features** (including P
 
 ---
 
-## 🔬 Methodology
+##  Methodology
 
 1. **Data Preprocessing** — Label encoding, feature scaling (StandardScaler & MinMaxScaler), feature selection (Chi-squared test)
 2. **Data Balancing** — SMOTE applied to training data to address class imbalance
@@ -120,7 +120,7 @@ The study uses a prostate cancer dataset containing **30 features** (including P
 4. **Ensemble Learning** — Stacking and Voting classifiers to combine base learner predictions
 ---
 
-## 📝 Citation
+##  Citation
 
 If you use this work, please cite:
 
@@ -138,13 +138,13 @@ If you use this work, please cite:
 
 ---
 
-## 📜 License
+##  License
 
 © 2026 The Author(s). Published by Springer Netherlands.
 
 ---
 
-## 📧 Contact
+##  Contact
 
 For questions or collaboration, please reach out to the corresponding authors:
 
